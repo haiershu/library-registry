@@ -3091,6 +3091,7 @@ https://github.com/Seeed-Studio/Grove_Motor_Driver_TB6612FNG
 https://github.com/Seeed-Studio/Grove_Serial_MP3_Player_V2.0
 https://github.com/Seeed-Studio/Grove_SHT31_Temp_Humi_Sensor
 https://github.com/Seeed-Studio/Grove_Sunlight_Sensor
+https://github.com/Seeed-Studio/Grove-Ranging-sensor-VL53L0X
 https://github.com/Seeed-Studio/Grove_Temper_Humidity_TH02
 https://github.com/Seeed-Studio/Grove_Temperature_And_Humidity_Sensor
 https://github.com/Seeed-Studio/Grove_touch_sensor_CY8C40XX
@@ -3120,6 +3121,7 @@ https://github.com/Seeed-Studio/Seeed_LDC1612
 https://github.com/Seeed-Studio/Seeed_LTC2941
 https://github.com/Seeed-Studio/Seeed_MCP9600
 https://github.com/Seeed-Studio/Seeed_PCA9685
+https://github.com/Seeed-Studio/Grove-Ranging-sensor-VL53L0X
 https://github.com/Seeed-Studio/Seeed_PM2_5_sensor_HM3301
 https://github.com/Seeed-Studio/Seeed_QTouch
 https://github.com/Seeed-Studio/Seeed_SHT35
