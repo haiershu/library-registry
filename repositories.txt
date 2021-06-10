@@ -3055,6 +3055,7 @@ https://github.com/SConaway/AVRUtils
 https://github.com/sdumetz/coordinates
 https://github.com/sebaJoSt/BlaeckSerial
 https://github.com/sebnil/DueFlashStorage
+https://github.com/Seeed-Studio/Grove-Ranging-sensor-VL53L0X
 https://github.com/Seeed-Studio/Accelerometer_ADXL335
 https://github.com/Seeed-Studio/Accelerometer_ADXL345
 https://github.com/Seeed-Studio/Accelerometer_And_Gyroscope_LSM6DS3
